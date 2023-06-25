@@ -21,7 +21,7 @@
 
 ## Frontend Engineering
 
-- <img src="https://img.shields.io/badge/Angular-Basic-red.svg" alt="Angular-Basic"> [Angular Basic - Hackerrank](https://github.com/supreethavadhani/certifications/blob/master/Frontend-Certifications/Angular_Basic_Hackerrank.png)
+- <img src="https://img.shields.io/badge/React-Basic" alt="React-Basic"> [React Basic - Linkedin]()
 - <img src="https://img.shields.io/badge/Angular-Intermediate-red.svg" alt="Angular-Intermediate"> [Angular Intermediate - Hackerrank](https://github.com/supreethavadhani/certifications/blob/master/Frontend-Certifications/Angular_Intermediate_HackerRank.png)
 - <img src="https://img.shields.io/badge/Webpack-green.svg" alt="Webpack"> [Webpack - LinkedIn Learning](https://github.com/supreethavadhani/certifications/blob/master/Frontend-Certifications/Webpack_linkedIn_learning.pdf)
 - <img src="https://img.shields.io/badge/Angular%20Testing-orange.svg" alt="Angular Testing"> [Angular Testing - Jest](https://github.com/supreethavadhani/certifications/blob/master/Frontend-Certifications/Angular_testing_linkedIn_learning.pdf)
