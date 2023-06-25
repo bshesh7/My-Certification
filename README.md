@@ -12,9 +12,7 @@
   <a href="https://nodejs.org/"><img src="https://img.icons8.com/color/96/000000/nodejs.png" width="96" height="96"></a>
   <a href="https://restfulapi.net/"><img src="https://miro.medium.com/v2/resize:fit:880/1*J3G3akaMpUOLegw0p0qthA.png" width="96" height="96"></a>
   <a href="https://expressjs.com/"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png" width="96" height="60"></a>
-  <a href="https://angular.io/"><img src="https://img.icons8.com/color/96/000000/angularjs.png" width="96" height="96"></a>
   <a href="https://www.figma.com/"><img src="https://img.icons8.com/color/96/000000/figma.png" width="96" height="96"></a>
-  <a href="https://www.python.org/"><img src="https://img.icons8.com/color/96/000000/python.png" width="96" height="96"></a>
   <a href="https://scikit-learn.org/stable/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="96" height="96"></a>
   <a href="https://developers.google.com/web/tools/chrome-devtools"><img src="https://img.icons8.com/color/96/000000/chrome.png" width="96" height="96"></a>
     <a><img src="https://www.inflectra.com/Screenshot/948.aspx" width="120" height="96"></a>
