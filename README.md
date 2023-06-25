@@ -4,7 +4,7 @@
 </div>
 <p align="center">
 
-<a style={{text-align: center}} href="https://www.linkedin.com/learning/"><img src="https://i.insider.com/5fc6823450e71a001155838e" width="120" height="120"></a>
+<a href="https://www.linkedin.com/learning/"><img src="https://i.insider.com/5fc6823450e71a001155838e" width="120" height="120"></a>
 
 
 <hr>
